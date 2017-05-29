@@ -1,0 +1,17 @@
+header{
+	background-color: orange;
+	margin-bottom: 50px;
+	margin-top: 0px;
+}
+.card{
+	border: 1px solid black;
+	margin-bottom: 20px;
+}
+.card-pic{
+	width:100%;
+}
+.trading-card{
+	margin-bottom: 0;
+	margin-top: 0;
+	padding:20px;
+}
